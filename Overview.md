@@ -1,5 +1,7 @@
 Welcome to my documentation of the learning journey in the field of cybersecurity. This repository is where I document the skills, tools, and concepts I encounter as I explore various rooms and challenges on TryHackMe.
 
+This documentation is focus on the SOC L1 path!
+
 
 What You’ll Find Here:
 
