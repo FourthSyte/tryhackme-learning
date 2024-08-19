@@ -10,10 +10,14 @@ Thank you!
 
 # 🛠️ Contents
 
-Overview
-Rooms and Challenges
-Tools and Techniques
-Reflections and Takeaways
+- Overview
+
+- Rooms and Challenges
+
+- Tools and Techniques
+
+- Reflections and Takeaways
+  
 
 # 📘 Rooms and Challenges
 
