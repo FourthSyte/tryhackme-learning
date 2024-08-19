@@ -33,7 +33,7 @@ This section will include key insights, challenges I encountered, and the soluti
 
 # 🎯 Goal
 
-My aim is to build a strong foundation in cybersecurity concepts, enhance my practical skills, and become proficient in penetration testing and incident response.
+My aim is to build a strong foundation in cybersecurity concepts, enhance my practical skills, and become proficient in incident response and etc.
 
 # 📝 Contributing
 
